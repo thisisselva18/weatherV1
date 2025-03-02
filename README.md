@@ -1,8 +1,8 @@
-# Weather
+# A Really Simple Weather App
 
 A new Flutter project.
 
-## Getting Started
+## Why?
 
 This was just a practice application made for getting used to APIs. I've used the OpenWeather API in this project, so, here you go :D
 
